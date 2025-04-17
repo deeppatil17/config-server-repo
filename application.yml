@@ -2,4 +2,4 @@ global:
   message: A warm welcome to Software Engineers!!
 logging:
   level:
-    root: INFO
+    root: ERROR
