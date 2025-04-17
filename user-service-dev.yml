@@ -1,3 +1,5 @@
+global:
+  message: A warm welcome to Backend Engineers!!
 server:
   port: 8081
 message: Hello from Dev!!
